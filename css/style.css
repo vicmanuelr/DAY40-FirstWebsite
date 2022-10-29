@@ -1,0 +1,57 @@
+body {
+    background-color: #354259;
+    color: #CFD2CF;
+    font-family: "Calibri";
+}
+
+hr {
+    background-color: #2B4865;
+    border-style: none;
+    border-bottom: dotted;
+    border-color: #256D85;
+    border-width: 5px;
+    height: 1px;
+    width: 10%;
+}
+
+h1 {
+    color: #8FE3CF;
+}
+
+h3 {
+    color: #8FE3CF;
+}
+
+ /* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Linkedin */
+.fa-linkedin {
+  background: #55ACEE;
+  color: white;
+}
+
+/* Github */
+.fa-github {
+  background: black;
+  color: white;
+}
